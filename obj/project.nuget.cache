@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UsiJtGNIcSKhFwxZ30t9Oqt8mSiskqhKSBVuucqVQqXgsk3IejvAW9+K/8iSuS3xbEP5djYMyB/waa/4Z2ifHg==",
+  "success": true,
+  "projectFilePath": "/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webapi/rockstar-webapi.csproj",
+  "expectedPackageFiles": [
+    "/Users/ketanmalik/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/ketanmalik/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/ketanmalik/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/ketanmalik/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/ketanmalik/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/ketanmalik/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
