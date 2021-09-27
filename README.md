@@ -5,7 +5,6 @@
 ## Clone Repository
 
 ```
-
 git clone https://github.com/ketanmalik/rockstar-webapi.git
 ```
 
